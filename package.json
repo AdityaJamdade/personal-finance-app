@@ -1,0 +1,15 @@
+{
+  "name": "personal-finance-app",
+  "version": "1.0.0",
+  "description": "personal finance app where you can manage and track your daily expenses, and get insights.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/index.js",
+    "server": "nodemon backend/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
